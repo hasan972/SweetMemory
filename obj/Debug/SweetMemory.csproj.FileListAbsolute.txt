@@ -1,0 +1,10 @@
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\bin\Debug\SweetMemory.exe.config
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\bin\Debug\SweetMemory.exe
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\bin\Debug\SweetMemory.pdb
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.csproj.AssemblyReference.cache
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.Form1.resources
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.Properties.Resources.resources
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.csproj.GenerateResource.cache
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.csproj.CoreCompileInputs.cache
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.exe
+C:\Users\16201\source\repos\SweetMemory\SweetMemory\obj\Debug\SweetMemory.pdb
